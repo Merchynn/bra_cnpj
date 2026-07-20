@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Dados gerados
+cnpj_*/
+zips/
+unificado/
+estabelecimentos_por_uf/
+*_partes/
+*.zip
+*.csv
+*.part
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
